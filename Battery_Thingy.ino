@@ -5,8 +5,9 @@ unsigned long StartTime;
 int FLAG;
 
 //Did you know that cashews come from a fruit?
-//mhgcmjgk
-//kjyjyy
+//DId you also know that almonds are a type of seed?
+//Did you also know that cows can sleep standing up?
+
 void setup()
 {
   CoDrone.begin(115200);
