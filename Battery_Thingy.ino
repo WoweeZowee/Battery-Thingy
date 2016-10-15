@@ -1,13 +1,12 @@
+/*
+  MASTER BRANCH
+*/
+
 #include<CoDrone.h>
 int Battery;
 int Mode;
 unsigned long StartTime;
 int FLAG;
-
-//MASTER BRANCH
-//Did you know that cashews come from a fruit?
-//DId you also know that almonds are a type of seed?
-//Did you also know that cows can sleep standing up?
 
 void setup()
 {
