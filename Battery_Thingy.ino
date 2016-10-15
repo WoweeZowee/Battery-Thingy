@@ -4,12 +4,9 @@ int Mode;
 unsigned long StartTime;
 int FLAG;
 
-<<<<<<< HEAD
 //Did you know that cashews come from a fruit?
 //mhgcmjgk
 //kjyjyy
-=======
->>>>>>> parent of b377807... added comment
 void setup()
 {
   CoDrone.begin(115200);
