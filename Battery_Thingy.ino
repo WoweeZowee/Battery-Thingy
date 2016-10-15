@@ -4,6 +4,8 @@ int Mode;
 unsigned long StartTime;
 int FLAG;
 
+//Did you know that cashews come from a fruit?
+
 void setup()
 {
   CoDrone.begin(115200);
